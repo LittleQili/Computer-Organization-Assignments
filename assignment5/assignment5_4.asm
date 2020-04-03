@@ -20,7 +20,7 @@ FOO     PROC
     
         SUB SP,12 ;int a,b,c
         ;...
-        ADD SP,12 ;cleam
+        ADD SP,12 ;clean
         
         RET 
 FOO     ENDP 

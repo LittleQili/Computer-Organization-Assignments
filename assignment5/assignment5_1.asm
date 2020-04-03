@@ -1,4 +1,3 @@
-;Question: why inverse?
 .MODEL SMALL
 .STACK 64
 .DATA
